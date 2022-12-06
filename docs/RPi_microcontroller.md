@@ -99,7 +99,7 @@ To check available gpiochip run:
 gpiodetect
 ```
 
-To check the pin number and the pin availability tun:
+To check the pin number and the pin availability run:
 ```
 gpioinfo
 ```
